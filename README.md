@@ -1,9 +1,5 @@
 <h1 align="center">
-  <a href="https://examilo-alewis.herokuapp.com/login" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/51219653/83470243-60176280-a447-11ea-8011-5c3d8f86c209.png" alt="Examilo App" width="350">
-  </a>
-  <br>
- Examilo - School statistics web app
+  Examilo - School statistics web app
   <br>
 </h1>
 
@@ -15,7 +11,7 @@
 
 ## Description
 
-Examilo was made using [react](https://github.com/facebook/react#react-----), [redux](https://github.com/reduxjs/redux#) and [sass](https://github.com/sass/node-sass#node-sass) amongst other libraries on the frontend and [express](https://github.com/expressjs/express) on the backend with a connection to MongoDB.
+Examilo was created using [React](https://github.com/facebook/react#react-----), [Redux](https://github.com/reduxjs/redux#) and [Sass](https://github.com/sass/node-sass#node-sass) among the libraries on the front end, and the backend was built with [Node.js](https://github.com/nodejs), [Express](https://github.com/expressjs/express), and [MongoDB](https://github.com/mongodb/mongo).
 
 ## Known issues
 
